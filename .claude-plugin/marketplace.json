@@ -1,0 +1,18 @@
+{
+  "name": "elipse-e3-skill",
+  "owner": {
+    "name": "Leandro B. Pedro"
+  },
+  "metadata": {
+    "description": "Claude Code skills for Elipse E3 and Elipse Power SCADA projects"
+  },
+  "plugins": [
+    {
+      "name": "elipse-e3",
+      "source": "./plugins/elipse-e3",
+      "description": "Rules and helper scripts for working on Elipse E3 / Elipse Power applications through their script and screen exports",
+      "version": "0.1.0",
+      "keywords": ["elipse", "e3", "elipse-power", "scada", "vbscript", "hmi"]
+    }
+  ]
+}

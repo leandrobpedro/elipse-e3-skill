@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+.vbs_tool_*
+.e3csv_*

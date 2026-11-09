@@ -1,0 +1,9 @@
+{
+  "name": "elipse-e3",
+  "version": "0.1.0",
+  "description": "Rules and helper scripts for working on Elipse E3 / Elipse Power applications through their script and screen exports",
+  "author": {
+    "name": "Leandro B. Pedro"
+  },
+  "keywords": ["elipse", "e3", "elipse-power", "scada", "vbscript", "hmi"]
+}
